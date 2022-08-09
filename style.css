@@ -1,0 +1,49 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.awa{
+    background-color: black;
+    width: 700px;
+}
+.im{
+    position: relative;
+    width: 245px;
+    left: 250px;
+}
+.hh{
+    background-color: gray;
+    width: 600px;
+    position: relative;
+    bottom: 130px;
+    left: 647px;
+    padding: 51px;
+}
+h2 {
+    
+    position: relative;
+    text-align: center ;
+    right: 20px;
+}
+h2 a{
+    text-decoration: none;
+    color: white;
+    font-family: arial;
+}
+h2 a:hover{
+    color: brown;
+}
+
+.s1{
+    background-image: url(images/bc.jpg);
+}
+.nav{
+    position: relative;
+    right: auto;
+    font-family: Arial;
+    color: white;
+}
+.nav li{
+    text-align: right;
+
+}
