@@ -1,0 +1,128 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.awa{
+    background-color: black;
+    width: 700px;
+}
+.im{
+    position: relative;
+    width: 245px;
+    left: 250px;
+}
+.hh{
+    background-color: gray;
+    width: 600px;
+    position: relative;
+    bottom: 130px;
+    left: 647px;
+    padding: 51px;
+}
+h2 {
+    
+    position: relative;
+    text-align: center ;
+    right: 20px;
+}
+h2 a{
+    text-decoration: none;
+    color: white;
+    font-family: arial;
+}
+h2 a:hover{
+    color: brown;
+}
+.se{
+    background-image: url(branches/290879824_2828674077428706_2983184087726724788_n.jpg);
+    height: 150vh;
+}
+.cen{
+    
+    position: relative;
+    bottom: 60px;
+    font-size: larger;
+}
+h1{
+    text-align: center;
+    font-family: arial;
+    color: white;
+}
+.game{
+    max-width: 1250px;
+    margin: auto;
+    background: gray;
+    background-size: cover;
+    overflow: auto;
+
+}
+.deb{
+    margin: 10px;
+    border: 3px solid white;
+    float: left;
+    width: 380px;
+}
+.deb img{
+    width: 100%;
+    height: auto;
+    position: relative;
+    left: auto;
+}
+
+
+.text1{
+    padding: 15px;
+    text-align: center;
+    font-family: arial;
+    color: white;
+}
+.text1:hover{
+    color: black;
+}
+.east{
+    position: relative;
+    bottom: 60px;
+    font-size: larger;
+}
+.east h2{
+    text-align: center;
+    font-family: arial;
+    color: white;
+    position: relative;
+    top: 130px;
+}
+.two{
+    background-image: url(branches/290879824_2828674077428706_2983184087726724788_n.jpg);
+    height: 120vh;
+}
+
+.ea{
+    max-width: 1250px;
+    margin: auto;
+    background: gray;
+    background-size: cover;
+    overflow: auto;
+    position: relative;
+    top: 130px;
+}
+.deb{
+    margin: 10px;
+    border: 1px solid gray;
+    float: left;
+    width: 380px;
+}
+.deb img{
+    width: 100%;
+    height: auto;
+    position: relative;
+    left: auto;
+}
+.text1{
+    padding: 15px;
+    text-align: center;
+    font-family: arial;
+    color: white;
+}
+.text1:hover{
+    color: black;
+}
