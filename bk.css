@@ -1,0 +1,68 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.b1{
+    background-image: url(branches/bb.webp);
+    height: 100vh;
+   
+}
+.h1{
+    text-align: center;
+    color: white;
+    font-family: arial;
+}
+.awa{
+    background-color: black;
+    width: 700px;
+}
+.im{
+    position: relative;
+    width: 245px;
+    left: 250px;
+}
+.hh{
+    background-color: gray;
+    width: 600px;
+    position: relative;
+    bottom: 130px;
+    left: 647px;
+    padding: 51px;
+}
+h2 {
+    
+    position: relative;
+    text-align: center ;
+    right: 20px;
+}
+h2 a{
+    text-decoration: none;
+    color: white;
+    font-family: arial;
+}
+h2 a:hover{
+    color: brown;
+}
+.gmi img{
+    position: relative;
+    left: auto;
+    width: 400px;
+    position: relative;
+    bottom: 90px;
+
+}
+h1{
+    text-align: left;
+    color: red;
+    font-family: arial;
+    position: relative;
+    bottom: 90px ;
+}
+.par p{
+    text-align: left;
+    color: white;
+    font-family: arial;
+    font-size: larger;
+    position: relative;
+    bottom: 80px;
+}
